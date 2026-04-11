@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* Configuração Global Do CSS */
+
+body {
+    background-image: linear-gradient(to right, #511FBB, #4F3091, #433366, #433366);
+}
+main{
+    background-color: white;
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px #2c2530;
+}
+h1{
+    color: #E6D700;
+    font-family: serif;
+    text-align: center;
+}
+h2 {
+    color: #EABE00;
+    font-family: sans-serif;
+    text-align: center;
+}
+p {
+    font-family: serif;
+    text-align: justify;
+}
